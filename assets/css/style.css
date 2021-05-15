@@ -2,9 +2,33 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Poppins", sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 
+/* Section */
 .statistics {
   margin-top: 6rem;
 }
+
+/* End Section */
+
+/* Carousel */
+.carousel .carousel-indicators li {
+  background-color: gray;
+}
+
+.carousel .carousel-indicators li.active {
+  background-color: #99d79a;
+}
+
+.testimoni-image {
+  width: 336px;
+  height: 392px;
+  margin-bottom: 4rem;
+}
+
+.testimoni-text {
+  width: 400px;
+}
+
+/* End Carousel */

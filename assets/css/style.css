@@ -73,13 +73,25 @@ body {
 /* Business Profile */
 
 .business-profile {
-  max-width: 880px;
+  max-width: 800px;
   margin-top: 5rem;
   margin-left: 25rem;
 }
 
 .topsell {
-  max-width: 880px;
+  max-width: 800px;
+  margin-top: 5rem;
+  margin-left: 25rem;
+}
+
+.company-profile {
+  max-width: 800px;
+  margin-top: 5rem;
+  margin-left: 25rem;
+}
+
+.financial-analysis {
+  max-width: 800px;
   margin-top: 5rem;
   margin-left: 25rem;
 }

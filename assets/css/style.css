@@ -49,9 +49,12 @@ body {
 .category {
   margin-top: 25rem;
 }
+.filter {
+  margin-left: 28rem;
+}
 
 .bussines {
-  min-height: 2000px;
+  margin-bottom: 5rem;
 }
 
 /* End Dashboard */
@@ -66,6 +69,8 @@ body {
   overflow-x: hidden;
   padding-top: 20px;
 }
+
+/* Business Profile */
 
 .business-profile {
   max-width: 880px;
@@ -83,3 +88,5 @@ body {
   margin-left: 5rem;
   margin-top: 5rem;
 }
+
+/* End Profile */

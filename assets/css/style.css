@@ -93,6 +93,7 @@ body {
 .financial-analysis {
   max-width: 800px;
   margin-top: 5rem;
+  margin-bottom: 5rem;
   margin-left: 25rem;
 }
 
@@ -102,3 +103,13 @@ body {
 }
 
 /* End Profile */
+
+/* Upgrade Form */
+.role {
+  margin-top: 7rem;
+}
+
+.form-icon {
+  margin-right: 26rem;
+}
+/* End Upgrade Form */

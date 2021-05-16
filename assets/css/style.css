@@ -32,3 +32,54 @@ body {
 }
 
 /* End Carousel */
+
+/* Dashboard */
+.maintxt {
+  position: relative;
+}
+.maintxt > img,
+.overlay-text {
+  position: absolute;
+}
+
+.dashboard-jumbotron {
+  margin-top: 3rem;
+  height: 110px;
+}
+.category {
+  margin-top: 25rem;
+}
+
+.bussines {
+  min-height: 2000px;
+}
+
+/* End Dashboard */
+
+.sidenav {
+  height: 100%;
+  width: 360px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #eef0d5;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.business-profile {
+  max-width: 880px;
+  margin-top: 5rem;
+  margin-left: 25rem;
+}
+
+.topsell {
+  max-width: 880px;
+  margin-top: 5rem;
+  margin-left: 25rem;
+}
+
+.businfo {
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
